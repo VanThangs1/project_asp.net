@@ -11,5 +11,6 @@ namespace Homework.Models
 
         public DbSet<Menu> Menus { get; set; }
         public DbSet<AdminMenu> AdminMenus { get; set; }
+        public DbSet<AdminUser> AdminUsers { get; set; }
     }
 }

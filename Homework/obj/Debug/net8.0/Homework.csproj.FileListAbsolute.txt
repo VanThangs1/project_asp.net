@@ -249,3 +249,5 @@ E:\namespac\dai hoc\Nam4 ky1\CongNghePhanMem\Homework\Homework\bin\Debug\net8.0\
 E:\namespac\dai hoc\Nam4 ky1\CongNghePhanMem\Homework\Homework\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 E:\namespac\dai hoc\Nam4 ky1\CongNghePhanMem\Homework\Homework\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 E:\namespac\dai hoc\Nam4 ky1\CongNghePhanMem\Homework\Homework\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\namespac\dai hoc\Nam4 ky1\CongNghePhanMem\Homework\Homework\obj\Debug\net8.0\Homework.sourcelink.json
+E:\namespac\dai hoc\Nam4 ky1\CongNghePhanMem\Homework\Homework\bin\Debug\net8.0\SlugGenerator.dll
